@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 muhammad.mishbah61 StafCS 4096 Sep  7 15:31 .
+drwx--x--x  3 muhammad.mishbah61 StafCS 4096 Sep  7 15:29 ..
+drwxr-xr-x  8 muhammad.mishbah61 StafCS 4096 Sep  7 15:30 .git
+-rw-r--r--  1 muhammad.mishbah61 StafCS    0 Sep  7 15:31 lab01.txt
+-rw-r--r--  1 muhammad.mishbah61 StafCS    7 Sep  7 13:07 README.md
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 15:12 SandBox
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 15:29 week00
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week01
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week02
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week03
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week04
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week05
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week06
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week07
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week08
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week09
+drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week10
+/home/fasilkom/mahasiswa/m/muhammad.mishbah61/os162/week01
