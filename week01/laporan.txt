@@ -1,0 +1,12 @@
+#muhammad_mishbah
+#MTX162
+
+This week we are ordered to learn about git. Some tasks we should do:
+- clone our git os162 folder to Badak 
+- make some folders
+- make some files
+- trying pull, commit, and push git repeatedly
+- try some editors such as vi or nano
+- and also try to scripting
+
+
