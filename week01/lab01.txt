@@ -17,3 +17,4 @@ drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week08
 drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week09
 drwxr-xr-x  2 muhammad.mishbah61 StafCS 4096 Sep  7 13:12 week10
 /home/fasilkom/mahasiswa/m/muhammad.mishbah61/os162/week01
+Today is 07 Sep 2016 at 15:52:36
